@@ -3,6 +3,7 @@ This repository offers the Python implementation of two clustering methods.
 
 ## MDST-DBSCAN
 The first one is Python implementation of MDST-DBSCAN, which was initially developed by Choi and Hong 2021 in R. The R-code is available here: https://github.com/locklocke/mdst-dbscan.
+
 Choi, Changlock and Seong-Yun Hong (2021). “MDST-DBSCAN: A Density-Based Clustering Method for Multidimensional Spatiotemporal Data”. In: ISPRS International Journal of Geo-Information 10.6, p. 391. issn: 2220-9964. doi: 10.3390/ijgi10060391.
 
 ## MDSTC-DBSCAN
